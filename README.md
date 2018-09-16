@@ -1,5 +1,5 @@
 # nkn-http-proxy
-Allows to browse HTTP websites through NKN network  
+Allows to browse HTTP websites through NKN  
 Consists of two parts: `client` and `server`
 
 ## client
